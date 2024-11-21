@@ -74,7 +74,7 @@ This analysis provides insights into:
 
 ### Example Screenshots
 1. **Top Scorers Bar Chart**:
-   ![image alt]([screenshots/top_scorers.png](https://github.com/DivyaKumar7/Premier-League-Players-Stats-23-24--Python-Data-Analysis-Project/blob/main/Screenshots/Top%20Goalscorers.png)
+   ![image alt](https://github.com/DivyaKumar7/Premier-League-Players-Stats-23-24--Python-Data-Analysis-Project/blob/f59cb9da096284002068f4e4696aa4375c69d5c0/Screenshots/Top%20Goalscorers.png)
 
 2. **Scatter Plot of Goals vs Assists**:
    ![Goals vs Assists](screenshots/goals_vs_assists.png)
