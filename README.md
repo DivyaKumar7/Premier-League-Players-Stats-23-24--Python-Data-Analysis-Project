@@ -81,7 +81,7 @@ This analysis provides insights into:
 2. **Scatter Plot of Goals vs Assists**:
    ![Goals vs Assists](screenshots/goals_vs_assists.png)
 
-3. **Team Progressive Analysis**:
+3. **Players Progressive Analysis**:
    ![Progressive Stats](screenshots/progressive_stats.png)
 
 4. **Underperformers and Overperformers - Teams**:
