@@ -77,15 +77,13 @@ This analysis provides insights into:
    ![image alt](https://github.com/DivyaKumar7/Premier-League-Players-Stats-23-24--Python-Data-Analysis-Project/blob/f59cb9da096284002068f4e4696aa4375c69d5c0/Screenshots/Top%20Goalscorers.png)
 
 2. **Scatter Plot of Goals vs Assists**:
-   ![Goals vs Assists](screenshots/goals_vs_assists.png)
+   ![image alt](https://github.com/DivyaKumar7/Premier-League-Players-Stats-23-24--Python-Data-Analysis-Project/blob/e35f8d224a6cea5d1fc582679c2d27a445caf0e5/Screenshots/Scatter%20Plot%20of%20Goals%20vs%20Assists.png)
 
 3. **Players Progressive Analysis**:
-   ![Progressive Stats](screenshots/progressive_stats.png)
+   ![image alt](https://github.com/DivyaKumar7/Premier-League-Players-Stats-23-24--Python-Data-Analysis-Project/blob/e35f8d224a6cea5d1fc582679c2d27a445caf0e5/Screenshots/Players%20Progressive%20Analysis.png)
 
 4. **Underperformers and Overperformers - Teams**:
-   ![Progressive Stats](screenshots/progressive_stats.png)
+   ![image alt](https://github.com/DivyaKumar7/Premier-League-Players-Stats-23-24--Python-Data-Analysis-Project/blob/e35f8d224a6cea5d1fc582679c2d27a445caf0e5/Screenshots/Underperformers%20and%20Overperformers%20-%20Teams.png)
 
 3. **Underperformers and Overperformers - Players**:
-   ![Progressive Stats](screenshots/progressive_stats.png)
-   
-(Add additional screenshots in the `screenshots/` folder and link them here.)
+   ![image alt](https://github.com/DivyaKumar7/Premier-League-Players-Stats-23-24--Python-Data-Analysis-Project/blob/e35f8d224a6cea5d1fc582679c2d27a445caf0e5/Screenshots/Underperformers%20and%20Overperformers%20-%20Players.png)
