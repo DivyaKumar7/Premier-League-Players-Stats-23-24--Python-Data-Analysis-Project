@@ -7,8 +7,6 @@ This project is a Python-based data analysis of the real **Premier League Player
 - [Features](#features)
 - [Project Highlights](#project-highlights)
 - [Visualizations](#visualizations)
-- [Installation](#installation)
-- [Screenshots](#screenshots)
 
 ---
 
@@ -33,8 +31,6 @@ This dataset contains detailed statistics for footballers in the **Premier Leagu
 - **PrgC**: Progressive carries.
 - **PrgP**: Progressive passes.
 - **PrgR**: Progressive runs.
-
-[For the full list of columns, refer to the dataset description.](#dataset-description)
 
 ---
 
