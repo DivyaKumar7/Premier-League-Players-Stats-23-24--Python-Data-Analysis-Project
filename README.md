@@ -1,7 +1,5 @@
 # Premier-League-Players-Stats-23-24--Python-Data-Analysis-Project
 
-# Premier League Players Stats 23/24 - Python Data Analysis Project
-
 This project is a Python-based data analysis of the real **Premier League Players Stats 23/24** dataset. The analysis explores various player and team metrics, visualizing the insights using **NumPy**, **Pandas**, **Matplotlib**, and **Seaborn**.
 
 ## Table of Contents
